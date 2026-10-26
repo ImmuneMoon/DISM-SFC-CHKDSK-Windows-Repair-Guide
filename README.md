@@ -1,4 +1,11 @@
 # DISM-SFC-CHKDSK-Windows-Repair-Guide
+
+![Windows 10 | 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?logo=windows&logoColor=white)
+![Tools: DISM, SFC, CHKDSK](https://img.shields.io/badge/Tools-DISM%20%7C%20SFC%20%7C%20CHKDSK-5c2d91)
+![Requires administrator](https://img.shields.io/badge/Requires-Administrator-d73a49)
+[![Last updated](https://img.shields.io/github/last-commit/ImmuneMoon/DISM-SFC-CHKDSK-Windows-Repair-Guide?label=updated)](https://github.com/ImmuneMoon/DISM-SFC-CHKDSK-Windows-Repair-Guide/commits/main)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](LICENSE)
+
 A simple guide to check for, &amp; repair corupted, or missing widows files
 -
 *Brief Overview*
