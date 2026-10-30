@@ -1,4 +1,4 @@
-# DISM-SFC-CHKDSK-Windows-Repair-Guide
+# DISM, SFC, and CHKDSK Windows Repair Guide
 
 ![Windows 10 | 11](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?logo=windows&logoColor=white)
 ![Tools: DISM, SFC, CHKDSK](https://img.shields.io/badge/Tools-DISM%20%7C%20SFC%20%7C%20CHKDSK-5c2d91)
