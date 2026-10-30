@@ -6,7 +6,9 @@
 [![Last updated](https://img.shields.io/github/last-commit/ImmuneMoon/DISM-SFC-CHKDSK-Windows-Repair-Guide?label=updated)](https://github.com/ImmuneMoon/DISM-SFC-CHKDSK-Windows-Repair-Guide/commits/main)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](LICENSE)
 
-A simple guide to check for, &amp; repair corupted, or missing widows files
+**📄 [Download the PDF](DISM-SFC-CHKDSK-Windows-Repair-Guide.pdf)**
+
+A simple guide to check for, &amp; repair corrupted, or missing Windows files
 -
 *Brief Overview*
 * To use chkdsk, dism, and sfc together, run them in this order:
